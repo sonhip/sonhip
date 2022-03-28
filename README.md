@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="./svg/sonhip.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/sonhip.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -51,28 +51,18 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">Where to find me?</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/ki.nhat.54943/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/tran-son-bab24216b/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:sonhipkmhd@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-
 <br>
-
-<h2 align="center">📑 Random DEV Quotes 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
